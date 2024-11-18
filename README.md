@@ -6,6 +6,8 @@ This project show the sales dashboard of Adidas sales from 2020 to 2021. From th
 
 ## Dashboard link and dataset
 
-The adidas sales data are obtained on Kaggle:
+The adidas sales data are obtained on Kaggle.
 
+Link for the Dashboard on Tableau:
+[Link](https://public.tableau.com/views/AdidasSales2020-2021_17319676077890/AdidasSalesDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
