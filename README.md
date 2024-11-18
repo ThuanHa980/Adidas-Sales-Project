@@ -6,3 +6,6 @@ This project show the sales dashboard of Adidas sales from 2020 to 2021. From th
 
 ## Dashboard link and dataset
 
+The adidas sales data are obtained on Kaggle:
+
+
