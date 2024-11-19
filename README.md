@@ -10,4 +10,3 @@ The adidas sales data are obtained on Kaggle.
 
 Link for the Dashboard on Tableau:
 [Link](https://public.tableau.com/views/AdidasSales2020-2021_17319676077890/AdidasSalesDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
-
